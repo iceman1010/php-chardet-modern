@@ -1,9 +1,10 @@
 {
     "name": "iceman1010/php-chardet-modern",
-    "description": "PHP wrapper around the chardet CLI - namespace-identical fork of yupmin/php-chardet on modern dependencies",
+    "description": "PHP wrapper around the chardet CLI - drop-in replacement for yupmin/php-chardet on modern dependencies",
     "type": "library",
     "license": "MIT",
     "version": "1.1.0",
+    "keywords": ["chardet", "charset", "encoding", "detection"],
     "require": {
         "php": ">=7.4",
         "symfony/process": "^5.4 || ^6.4 || ^7.0"
