@@ -6,7 +6,7 @@ Namespace-identical fork of [`yupmin/php-chardet`](https://github.com/yupmin/php
 
 ```diff
 - "yupmin/php-chardet": "^1.0"
-+ "simon/php-chardet-modern": "^1.1"
++ "iceman1010/php-chardet-modern": "^1.1"
 ```
 
 No consumer code changes are required; the `Yupmin\PHPChardet` classes resolve
@@ -41,7 +41,7 @@ pip install chardet
 ## Installation
 
 ```bash
-composer require simon/php-chardet-modern
+composer require iceman1010/php-chardet-modern
 ```
 
 ## Usage

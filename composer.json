@@ -1,5 +1,5 @@
 {
-    "name": "simon/php-chardet-modern",
+    "name": "iceman1010/php-chardet-modern",
     "description": "PHP wrapper around the chardet CLI - namespace-identical fork of yupmin/php-chardet on modern dependencies",
     "type": "library",
     "license": "MIT",

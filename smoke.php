@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Dependency-free smoke test for simon/php-chardet-modern.
+ * Dependency-free smoke test for iceman1010/php-chardet-modern.
  *
  * Verifies the installed package (path validation, end-to-end chardet
  * detection) without needing PHPUnit or dev dependencies.
